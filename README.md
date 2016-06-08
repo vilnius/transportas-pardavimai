@@ -1,2 +1,3 @@
-# transportas-pardavimai
-Transporto bilietų pardavimai
+# Transporto bilietų pardavimai
+
+Duomenys išeksportuoti iš bilietų pardavimo apskaitos sistemos.
